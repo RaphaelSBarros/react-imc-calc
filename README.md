@@ -9,3 +9,6 @@ Projeto desenvolvido durante o curso [B7Web](<https://b7web.com.br>).
 
 ### Para rodar
 - `npm start`
+
+### Acesse
+[Site do Projeto](<https://raphaelsbarros.github.io/react-imc-calc/>)
